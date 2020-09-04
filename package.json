@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "next": "9.4.4",
-    "react": "0.0.0-experimental-7f28234f8",
+    "react": "0.14.0",
     "react-dom": "0.0.0-experimental-7f28234f8",
     "react-uid": "^2.3.0",
     "uuid": "^8.2.0"
